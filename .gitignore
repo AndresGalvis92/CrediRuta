@@ -1,0 +1,6 @@
+node_modules/
+Dist/
+.env
+.env.production
+coverage/
+nyarn-error.log
